@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "123",
+        "type": "问题报告",
+        "title": "123",
+        "content": "123",
+        "urgency": "中",
+        "status": "已解决",
+        "submit_time": "2025-04-10 20:55:42",
+        "response": "admin",
+        "response_time": ""
+    },
+    {
+        "id": 2,
+        "username": "123",
+        "type": "功能建议",
+        "title": "123功能建议",
+        "content": "123",
+        "urgency": "高",
+        "status": "已解决",
+        "submit_time": "2025-04-10 21:13:39",
+        "response": "admin已解决",
+        "response_time": ""
+    }
+]
