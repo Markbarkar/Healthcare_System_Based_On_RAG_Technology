@@ -280,5 +280,5 @@ streamlit run login.py
 
 如果您的复现遇到了困难，请随时联系！
 
-邮箱：zeromakers@outlook.com
+邮箱：fiveguess25@gmail.com
 
