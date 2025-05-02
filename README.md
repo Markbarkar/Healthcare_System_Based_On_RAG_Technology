@@ -19,7 +19,7 @@ RAG技术：
 
 本项目采用知识图谱实现RAG，如果您想用向量数据库实现RAG技术，请移步[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)：
 
-<img src="img/langchain+chatglm.png" style="zoom:50%;" />
+<img src="img/langchain+chatglm.png" style="zoom:30%;" />
 
 本项目主要贡献：
 
@@ -146,7 +146,7 @@ python ner_data.py #可以不运行
 
 注2：我们采用BIO的策略对数据集进行标注，标注的结果如下图所示：
 
-<img src="img/nerdata.png" style="zoom:40%;" />
+<img src="img/nerdata.png" style="zoom:20%;" />
 
 
 
